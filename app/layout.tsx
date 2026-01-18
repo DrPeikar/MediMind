@@ -14,9 +14,9 @@ const fontSans = FontSans({
 export const metadata: Metadata = {
   title: "MediMind",
   description:
-    "A healthcare patient management System designed to streamline patient registration, appointment scheduling, and medical records management for healthcare providers.",
+    "MediMind is a secure, centralized health data platform that leverages advanced AI to streamline diagnostics and coordinate care between doctors, pharmacies, and specialists.",
   icons: {
-    icon: "/assets/icons/logo-icon.svg",
+    icon: "/assets/icons/onboarding-img-noBackground.png",
   },
 };
 
